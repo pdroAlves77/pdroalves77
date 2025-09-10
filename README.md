@@ -58,7 +58,7 @@ const pedro = {
 
 </div>
 
-## 🏆 Conquistas Corinthianas
+## 🏆 Conquistas do COLOSSAL Alvinegro
 
 - ⚽ **Orgulho do Povo Alvinegro**
 - 🌍 Mundial de Clubes FIFA — 2000, 2012
