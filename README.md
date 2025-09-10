@@ -72,8 +72,6 @@ const pedro = {
 - APIs Restful em Node.js
 - Frontend moderno com React e TypeScript
 - Experiência em sala de aula (ETEC Heliópolis)
-- Transição sólida para carreira em desenvolvimento
-
 
 
 ## 🚀 Projetos em Destaque
