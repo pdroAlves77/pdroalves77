@@ -80,7 +80,7 @@ const pedro = {
 - [virtual_store_ui](https://github.com/pdroAlves77/virtual_store_ui) — Interface web em React
 - [Weather-App](https://github.com/pdroAlves77/Weather-App) — Consulta climática
 - [pokedex1.0](https://github.com/pdroAlves77/pokedex1.0) — Pokédex
-- [next-saas-rbac](https://github.com/pdroAlves77/next-saas-rbac)— Template SaaS Next.js com autenticação e RBAC
+- [next-saas-rbac](https://github.com/pdroAlves77/next-saas-rbac) — Template SaaS Next.js com autenticação e RBAC
 
 
 ## 🚦 Atividade e Contribuição
