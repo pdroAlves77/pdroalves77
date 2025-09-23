@@ -17,7 +17,7 @@
 
 ## 📜 Sobre mim
 
-Sou professor na ETEC Heliópolis com mais de um ano de experiência em sala de aula e atualmente em transição de carreira para atuar como Desenvolvedor Júnior. Tenho sólida base em desenvolvimento web, APIs e bancos de dados relacionais e NoSQL.
+Sou professor na ETEC Heliópolis com mais de um ano de experiência em sala de aula e atualmente em transição de carreira para atuar como Desenvolvedor Júnior. Tenho sólida base em desenvolvimento web, APIs e bancos de dados relacionais e não relacionais.
 
 ```typescript
 const pedro = {
